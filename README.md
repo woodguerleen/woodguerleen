@@ -24,7 +24,6 @@
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
-![Webpack](https://icongr.am/devicon/webpack-original-wordmark.svg?size=50&color=currentColor)
 
 
 ### Connect with me via:
@@ -41,6 +40,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanleySimeon&show_icons=true&theme=radical)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stanleySimeon&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleySimeon&exclude_repo=github-readme-stats,stanleySimeon.github.io)](https://github.com/stanleySimeon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodguerleen&show_icons=true&theme=radical)
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=woodguerleen&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woodguerleen&exclude_repo=github-readme-stats,woodguerleen.github.io)](https://github.com/woodguerleen/github-readme-stats)
