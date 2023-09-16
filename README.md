@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodguerleen&label=Views&color=blue&style=plastic" alt="Wood-Guerleen GARCON" /></p>
 
-![github-header-image (5)](https://github.com/woodguerleen/woodguerleen/assets/145082190/dbc73942-a6f1-41df-8cbf-8c5ef73f8641)
+![github-header-image](https://github.com/woodguerleen/woodguerleen/assets/145082190/17a56670-d729-4f4c-b77a-8f9235a95182)
 
 - *Full-stack development*
 - 🌱 Learned the best practices towards working as a remote software developer with the help of [stanleySimeon](https://github.com/stanleySimeon)
