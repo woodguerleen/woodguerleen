@@ -29,9 +29,6 @@
 ### Connect with me via:
 <p>
   <a target="_blank"
-    href="https://wa.me/+17819217942"><img
-    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>  
-  <a target="_blank"
     href="mailto:woodguerleengarcon448@gmail.com"><img 
     src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
   <a target="_blank"
